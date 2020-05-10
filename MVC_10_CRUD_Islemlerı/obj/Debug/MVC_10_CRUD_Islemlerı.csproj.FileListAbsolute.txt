@@ -1,0 +1,150 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\MVC_10_CRUD_Islemlerı.dll.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\MVC_10_CRUD_Islemlerı.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\MVC_10_CRUD_Islemlerı.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\csc.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\csc.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\csc.rsp
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\csi.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\csi.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\csi.rsp
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.AppContext.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Console.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.IO.Compression.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Security.Claims.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Threading.Thread.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.ValueTuple.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\vbc.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\vbc.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\vbc.rsp
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\VBCSCompiler.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\EntityFramework.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\EntityFramework.SqlServer.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Helpers.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Mvc.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Razor.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Webpages.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Webpages.Razor.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\EntityFramework.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\EntityFramework.SqlServer.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Razor.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Webpages.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Webpages.Razor.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Helpers.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Mvc.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\obj\Debug\MVC_10_CRUD_Islemlerı.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\obj\Debug\MVC_10_CRUD_Islemlerı.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\obj\Debug\MVC_10_CRUD_Islemlerı.csproj.CopyComplete
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\obj\Debug\MVC_10_CRUD_Islemlerı.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\obj\Debug\MVC_10_CRUD_Islemlerı.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\MVC_10_CRUD_Islemlerı.dll.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\MVC_10_CRUD_Islemlerı.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\MVC_10_CRUD_Islemlerı.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\csc.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\csc.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\csc.rsp
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\csi.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\csi.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\csi.rsp
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.AppContext.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Console.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.IO.Compression.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.IO.Pipes.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Security.Claims.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Threading.Thread.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.ValueTuple.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\vbc.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\vbc.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\vbc.rsp
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\VBCSCompiler.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\EntityFramework.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\EntityFramework.SqlServer.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Helpers.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Mvc.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Razor.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Webpages.Deployment.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Webpages.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Webpages.Razor.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\EntityFramework.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\EntityFramework.SqlServer.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Razor.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Webpages.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Webpages.Deployment.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Webpages.Razor.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Helpers.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\bin\System.Web.Mvc.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\obj\Debug\MVC_10_CRUD_Islemlerı.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\obj\Debug\MVC_10_CRUD_Islemlerı.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\obj\Debug\MVC_10_CRUD_Islemlerı.csproj.CopyComplete
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\obj\Debug\MVC_10_CRUD_Islemlerı.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\MVC\MVC_10_CRUD_Islemlerı\MVC_10_CRUD_Islemlerı\obj\Debug\MVC_10_CRUD_Islemlerı.pdb
